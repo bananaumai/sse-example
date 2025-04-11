@@ -6,6 +6,10 @@ This is a simple Server-Sent Events (SSE) implementation in Go with both server 
 
 - Go 1.13 or higher
 
+## About SSE
+
+https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events
+
 ## Features
 
 - SSE endpoint at GET /event
